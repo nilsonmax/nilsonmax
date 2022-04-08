@@ -1,10 +1,10 @@
-### Hola a todos! 👋
-### Soy el Ingeniero en Informática Nilson Max Benitez Márquez desarrollador Full Stack!
-- Soy de Venezuela y Vivo en Colombia.
-- Actualmente estudiante de programación en "Soy Henry".
 
-- Sobre Mí.
-- Me gusta  y apasiona la programación, He trabajado en diversos proyectos en los cuales he volcado mis conocimientos en C++, JavaScript (utilizando distintos frameworks y librerías), un poco de PYTHON, PHP, SQL y MYSQL.
+<h1 dir="auto">Hola a todos! 👋 <br> Soy el Ingeniero en Informática Nilson Max Benitez Márquez</h1>
+
+### Sobre Mí.
+* Soy de Venezuela y Vivo en Colombia.
+* Actualmente estudiante de programación en "Soy Henry".
+* Me gusta  y apasiona la programación, He trabajado en diversos proyectos en los cuales he volcado mis conocimientos en C++, JavaScript (utilizando distintos frameworks y librerías), un poco de PYTHON, PHP, SQL y MYSQL.
 
 - Te invito a visitar mi perfil de Github para adentrarte en cada uno de ellos!
 - Actualmente me encuentro desarrollando un E-commerce utilizando React, Redux, Node.js, Sequelize y Postgres, entre otras tecnologías.
@@ -30,3 +30,6 @@
 <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/0174b03bab13c90e5673eaafbaa2cc273f8f0f8e70c39e660d0db9895f41f7ae/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f626f6f7473747261702e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/bootstrap.png" style="max-width: 100%;"></a><br>
 <a href="https://github.com/"><img src="https://camo.githubusercontent.com/36d30dadc5ccbf711154daaf495a2f4ce2269a1b14d492ded7e48c9926959c24/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/github.png" style="max-width: 100%;"></a>
 <a href="https://www.linux.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/775cff44e1c61c0a646d44eeaba420c99ace22da815995cd69259ba53f39cf0f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e75782e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/linux.png" style="max-width: 100%;"></a></p>
+
+
+<h1 dir="auto"><a id="user-content-hi--im-martin" class="anchor" aria-hidden="true" href="#hi--im-martin"><svg class="octicon octicon-link" </path></svg></a></h1>
