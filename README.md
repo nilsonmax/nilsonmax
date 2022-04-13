@@ -26,7 +26,7 @@
 <img src="https://img.icons8.com/color/48/000000/linux.png" style="max-width: 100%;"></p>
 
 ### Como Contactarme
-* ### <img width="18px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCH_L44q0stNB3mLOKQfO4YhtTDqFr-sn87Q&usqp=CAU" style="max-width: 100%;"> WhatsApp:<a href="https://api.whatsapp.com/send?phone=573008935212">+573008935212</a>
+* ### <img width="18px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCH_L44q0stNB3mLOKQfO4YhtTDqFr-sn87Q&usqp=CAU" style="max-width: 100%;"> WhatsApp:<a href="https://api.whatsapp.com/send?phone=573008935212" target="_blank">+573008935212</a>
 *  También te invito a visitar todas mis redes para conocer más sobre mí, las encontrarás en mi sitio web! y/o <a href="https://programas-juegos-max.blogspot.com" target="_blank"> blog</a>👨
 
 <h1 dir="auto"><a id="user-content-hi--im-martin" class="anchor" aria-hidden="true" href="https://api.whatsapp.com/send?phone=573008935212" target="_blank"><svg class="octicon octicon-link" </path></svg></a></h1>
