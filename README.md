@@ -25,7 +25,7 @@
 <img src="https://img.icons8.com/color/48/000000/github.png" style="max-width: 100%;">
 <img src="https://img.icons8.com/color/48/000000/linux.png" style="max-width: 100%;">
 <img width="50px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjllo01CsrsbAGJcijhDqKvfgSeh5ePfiT321LQ_xbVSwuwxXRUHZ6ESbZOHvTTn1pmdLt9mF1KypEui3seFy4c18IM2MEWTrVYBKjfoLuH3jifKxIBMtCTA-Hgha_QWiCYr_AqOhZKlibpr3np8peT4kal3RQsQSi3HdDHCMPqxPCZH_9uN8RIpeqwFA/s1600/free.png" style="max-width: 100%;">
-<img width="40px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZIixOnf_z9wdj3f3o_MKMXjwtuQKTfhufVne7QVkSbfIY2CeDZvaRVsqBCNldlu-clcLmnsob0JCj_wBzVM38uLOjDeVrb2M0vaUaONcZVhKtMZ-AsyfWTC-CcWHL2sv4g1oO8Z3ZBiIuY5TOkwgRc6FfxaqKDjX-4kD7p-7CrniwhN5QjM0SVP0Jg/s1200/WordPress_blue_logo.svg.png" style="max-width: 100%;"></p>
+<img width="40px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZIixOnf_z9wdj3f3o_MKMXjwtuQKTfhufVne7QVkSbfIY2CeDZvaRVsqBCNldlu-clcLmnsob0JCj_wBzVM38uLOjDeVrb2M0vaUaONcZVhKtMZ-AsyfWTC-CcWHL2sv4g1oO8Z3ZBiIuY5TOkwgRc6FfxaqKDjX-4kD7p-7CrniwhN5QjM0SVP0Jg/s320/WordPress_blue_logo.svg.png" style="max-width: 100%;"></p>
 
 ### Como Contactarme
 * ### <img width="18px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCH_L44q0stNB3mLOKQfO4YhtTDqFr-sn87Q&usqp=CAU" style="max-width: 100%;"> WhatsApp:<a href="https://api.whatsapp.com/send?phone=573008935212" target="_blank">+573008935212</a>
