@@ -24,10 +24,11 @@
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="max-width: 100%;">
 <img src="https://img.icons8.com/color/48/000000/github.png" style="max-width: 100%;">
 <img src="https://img.icons8.com/color/48/000000/linux.png" style="max-width: 100%;"></p>
+<img width="50px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjllo01CsrsbAGJcijhDqKvfgSeh5ePfiT321LQ_xbVSwuwxXRUHZ6ESbZOHvTTn1pmdLt9mF1KypEui3seFy4c18IM2MEWTrVYBKjfoLuH3jifKxIBMtCTA-Hgha_QWiCYr_AqOhZKlibpr3np8peT4kal3RQsQSi3HdDHCMPqxPCZH_9uN8RIpeqwFA/s1600/free.png" style="max-width: 100%;"></p>
 
 ### Como Contactarme
 * ### <img width="18px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCH_L44q0stNB3mLOKQfO4YhtTDqFr-sn87Q&usqp=CAU" style="max-width: 100%;"> WhatsApp:<a href="https://api.whatsapp.com/send?phone=573008935212" target="_blank">+573008935212</a>
-*  También te invito a visitar todas mis redes para conocer más sobre mí, las encontrarás en mi sitio web! y/o <a href="https://programas-juegos-max.blogspot.com" target="_blank"> blog</a>👨
+*  También te invito a visitar todas mis redes para conocer más sobre mí, las encontrarás en mi sitio web! y/o <a href="https://programas-juegos-max.blogspot.com" target="_blank"> blog</a> <a href="https://www.linkedin.com/in/nilson-max-benitez-marquez-b909b4230/" target="_blank">linkedin</a> 👨
 
 <h1 dir="auto"><a id="user-content-hi--im-martin" class="anchor" aria-hidden="true" href="https://api.whatsapp.com/send?phone=573008935212" target="_blank"><svg class="octicon octicon-link" </path></svg></a></h1>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer!" style="max-width: 100%;">
