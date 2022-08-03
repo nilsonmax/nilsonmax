@@ -34,4 +34,6 @@
 <h1 dir="auto"><a id="user-content-hi--im-martin" class="anchor" aria-hidden="true" href="https://api.whatsapp.com/send?phone=573008935212" target="_blank"><svg class="octicon octicon-link" </path></svg></a></h1>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer!" style="max-width: 100%;">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilsonmax&layout=compact)](https://github.com/nilsonmax/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilsonmax&show_icons=true&theme=tokyonight)
