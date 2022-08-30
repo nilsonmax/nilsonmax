@@ -3,7 +3,7 @@
 ### Sobre Mí.
 * Soy de Venezuela y Vivo en Colombia.
 * Actualmente estudiante de programación en "Soy Henry".
-* Me gusta  y apasiona la programación, He trabajado en diversos proyectos en los cuales he volcado mis conocimientos en C++, JavaScript (utilizando distintos frameworks y librerías), FullStack Developer | JavaScript | React - Redux | Express - Node - PostgreSQL - SQL | Python | PHP | MySQL |
+* Me gusta  y apasiona la programación, He trabajado en diversos proyectos en los cuales he volcado mis conocimientos en C++, JavaScript (utilizando distintos frameworks y librerías), FullStack Developer | JavaScript | React - Redux | Express - Node - PostgreSQL - SQL | PHP | Python | MySQL | C++ |
 
 - Te invito a visitar mi perfil de Github para adentrarte en cada uno de ellos!
 - Actualmente culmine un E-commerce utilizando React, Redux, Node.js, Sequelize y Postgres, entre otras tecnologías.
@@ -33,16 +33,22 @@
 <h1 dir="auto">
   <a><img width="300px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20161426.png?raw=true"></a>
   <a><img width="300px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162413.png?raw=true"></a>
-  <a><img width="300px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162448.png?raw=true"></a>
+  <a><img width="300px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162448.png?raw=true"></a></h1>
+<a href="https://musicommerce2022.vercel.app" target="_blank">E-commerce Musiccommerce</a> | FullStack Developer | JavaScript | React - Redux | Express - Node - PostgreSQL - SQL |
+
  <h1 dir="auto">
   <a><img width="300px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20164138.png?raw=true"></a>
   <a><img width="300px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20164055.png?raw=true"></a>
-  <a><img width="300px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20163940.png?raw=true"></a>
+  <a><img width="300px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20163940.png?raw=true"></a></h1>
+<a href="https://videogames-deploy-front.vercel.app" target="_blank">Videogames</a> | FullStack Developer | JavaScript | React - Redux | Express - Node - PostgreSQL - SQL |
+
 <h1 dir="auto">
   <a><img width="300px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-16%20094358.png?raw=true"></a>
   <a><img width="300px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-21%20173401.png?raw=true"></a>
   <a><img width="300px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-21%20175812.png?raw=true"></a>
 </h1>
+<a href="https://programas-juegos-max.blogspot.com/2022/03/venta-de-metin2-multilenguaje.html" target="_blank">Metin2 Multilenguaje</a> | Python | MySQL | C++ |
+
 <h1 dir="auto"><a id="user-content-hi--im-martin" class="anchor" aria-hidden="true" href="https://api.whatsapp.com/send?phone=573008935212" target="_blank"><svg class="octicon octicon-link" </path></svg></a>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer!" style="max-width: 100%;">
 
