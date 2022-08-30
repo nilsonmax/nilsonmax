@@ -47,7 +47,7 @@
   <a><img width="300px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-21%20173401.png?raw=true"></a>
   <a><img width="300px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-21%20175812.png?raw=true"></a>
 </h1>
-<a href="https://programas-juegos-max.blogspot.com/2022/03/venta-de-metin2-multilenguaje.html" target="_blank">Metin2 Multilenguaje</a> | Python | MySQL | C++ |
+<a href="https://programas-juegos-max.blogspot.com/2022/03/venta-de-metin2-multilenguaje.html" target="_blank">Metin2 Multilenguaje</a> | Python | MySQL | C++ | C | Lua |
 
 <h1 dir="auto"><a id="user-content-hi--im-martin" class="anchor" aria-hidden="true" href="https://api.whatsapp.com/send?phone=573008935212" target="_blank"><svg class="octicon octicon-link" </path></svg></a>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer!" style="max-width: 100%;">
