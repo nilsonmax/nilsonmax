@@ -1,4 +1,4 @@
-<h1 dir="auto">Hola a todos! 👋 Soy el Ingeniero en Informática<br> Nilson Max Benitez Márquez</h1>
+<h1 dir="auto">Hola a todos! 👋 Soy el Ingeniero en Informática<br> Nilson Max Benitez Márquez</h1><h3 dir="auto">FullStack Developer | JavaScript | React - Redux | Express - Node - SQL </h3><h1 dir="auto"></h1>
 
 ### Sobre Mí.
 * Soy de Venezuela y Vivo en Colombia.
