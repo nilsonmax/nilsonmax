@@ -31,21 +31,21 @@
   
 ### My proyects
 <h1 dir="auto">
-  <a><img width="300px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20161426.png?raw=true"></a>
-  <a><img width="300px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162413.png?raw=true"></a>
-  <a><img width="300px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162448.png?raw=true"></a></h1>
+  <a><img width="200px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20161426.png?raw=true"></a>
+  <a><img width="200px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162413.png?raw=true"></a>
+  <a><img width="200px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162448.png?raw=true"></a></h1>
 <a href="https://musicommerce2022.vercel.app" target="_blank">E-commerce Musiccommerce</a> | FullStack Developer | JavaScript | React - Redux | Express - Node - PostgreSQL - SQL |
 
  <h1 dir="auto">
-  <a><img width="300px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20164138.png?raw=true"></a>
-  <a><img width="300px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20164055.png?raw=true"></a>
-  <a><img width="300px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20163940.png?raw=true"></a></h1>
+  <a><img width="200px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20164138.png?raw=true"></a>
+  <a><img width="200px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20164055.png?raw=true"></a>
+  <a><img width="200px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20163940.png?raw=true"></a></h1>
 <a href="https://videogames-deploy-front.vercel.app" target="_blank">Videogames</a> | FullStack Developer | JavaScript | React - Redux | Express - Node - PostgreSQL - SQL |
 
 <h1 dir="auto">
-  <a><img width="300px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-16%20094358.png?raw=true"></a>
-  <a><img width="300px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-21%20173401.png?raw=true"></a>
-  <a><img width="300px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-21%20175812.png?raw=true"></a>
+  <a><img width="200px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-16%20094358.png?raw=true"></a>
+  <a><img width="200px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-21%20173401.png?raw=true"></a>
+  <a><img width="200px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-21%20175812.png?raw=true"></a>
 </h1>
 <a href="https://programas-juegos-max.blogspot.com/2022/03/venta-de-metin2-multilenguaje.html" target="_blank">Metin2 Multilenguaje</a> | Python | MySQL | C++ | C | Lua |
 
