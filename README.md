@@ -19,8 +19,6 @@
 <img width="40px" src="https://s2.qwant.com/thumbr/0x380/f/1/def6e5a6cedacd5856251aeaef7e52119bf19a4f70ada987080f4a3db8e074/sequelize-logo-png-transparent.png?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fsequelize-logo-png-transparent.png&amp;q=0&amp;b=1&amp;p=0&amp;a=0" style="max-width: 100%;">
 <img src="https://img.icons8.com/color/48/000000/postgresql.png" style="max-width: 100%;">
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="max-width: 100%;">
-<img src="https://img.icons8.com/color/48/000000/firebase.png" style="max-width: 100%;">
-<img src="https://img.icons8.com/color/48/000000/material-ui.png" style="max-width: 100%;">
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="max-width: 100%;">
 <img src="https://img.icons8.com/color/48/000000/github.png" style="max-width: 100%;">
 <img src="https://img.icons8.com/color/48/000000/linux.png" style="max-width: 100%;">
