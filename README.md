@@ -3,10 +3,10 @@
 ### Sobre Mí.
 * Soy de Venezuela y Vivo en Colombia.
 * Actualmente estudiante de programación en "Soy Henry".
-* Me gusta  y apasiona la programación, He trabajado en diversos proyectos en los cuales he volcado mis conocimientos en C++, JavaScript (utilizando distintos frameworks y librerías), un poco de PYTHON, PHP, SQL y MYSQL.
+* Me gusta  y apasiona la programación, He trabajado en diversos proyectos en los cuales he volcado mis conocimientos en C++, JavaScript (utilizando distintos frameworks y librerías), FullStack Developer | JavaScript | React - Redux | Express - Node - PostgreSQL - SQL | Python | PHP | MySQL |
 
 - Te invito a visitar mi perfil de Github para adentrarte en cada uno de ellos!
-- Actualmente me encuentro desarrollando un E-commerce utilizando React, Redux, Node.js, Sequelize y Postgres, entre otras tecnologías.
+- Actualmente culmine un E-commerce utilizando React, Redux, Node.js, Sequelize y Postgres, entre otras tecnologías.
 <p dir="auto"><img src="https://img.icons8.com/color/48/000000/html-5.png" style="max-width: 100%;">
 <img src="https://img.icons8.com/color/48/000000/css3.png" style="max-width: 100%;">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" style="max-width: 100%;">
