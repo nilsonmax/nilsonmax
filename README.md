@@ -29,7 +29,7 @@
 * ### <img width="18px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCH_L44q0stNB3mLOKQfO4YhtTDqFr-sn87Q&usqp=CAU" style="max-width: 100%;"> WhatsApp:<a href="https://api.whatsapp.com/send?phone=573008935212" target="_blank">+573008935212</a>
 *  También te invito a visitar todas mis redes para conocer más sobre mí, las encontrarás en mis sitios web! <a href="https://programas-juegos-max.blogspot.com" target="_blank"> blog</a> <a href="https://www.linkedin.com/in/nilson-max-benitez-marquez-b909b4230/" target="_blank">linkedin</a> <a href="https://www.facebook.com/ProgramasJuegosMax" target="_blank">facebook</a>  👨
   
-### My proyects
+### Mis proyectos
 <h1 dir="auto">
   <a><img width="200px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20161426.png?raw=true"></a>
   <a><img width="200px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162413.png?raw=true"></a>
