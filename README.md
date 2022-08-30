@@ -25,26 +25,25 @@
 <img width="50px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjllo01CsrsbAGJcijhDqKvfgSeh5ePfiT321LQ_xbVSwuwxXRUHZ6ESbZOHvTTn1pmdLt9mF1KypEui3seFy4c18IM2MEWTrVYBKjfoLuH3jifKxIBMtCTA-Hgha_QWiCYr_AqOhZKlibpr3np8peT4kal3RQsQSi3HdDHCMPqxPCZH_9uN8RIpeqwFA/s1600/free.png" style="max-width: 100%;">
 <img width="40px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZIixOnf_z9wdj3f3o_MKMXjwtuQKTfhufVne7QVkSbfIY2CeDZvaRVsqBCNldlu-clcLmnsob0JCj_wBzVM38uLOjDeVrb2M0vaUaONcZVhKtMZ-AsyfWTC-CcWHL2sv4g1oO8Z3ZBiIuY5TOkwgRc6FfxaqKDjX-4kD7p-7CrniwhN5QjM0SVP0Jg/s320/WordPress_blue_logo.svg.png" style="max-width: 100%;"></p>
 
+### Como Contactarme
+* ### <img width="18px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCH_L44q0stNB3mLOKQfO4YhtTDqFr-sn87Q&usqp=CAU" style="max-width: 100%;"> WhatsApp:<a href="https://api.whatsapp.com/send?phone=573008935212" target="_blank">+573008935212</a>
+*  También te invito a visitar todas mis redes para conocer más sobre mí, las encontrarás en mis sitios web! <a href="https://programas-juegos-max.blogspot.com" target="_blank"> blog</a> <a href="https://www.linkedin.com/in/nilson-max-benitez-marquez-b909b4230/" target="_blank">linkedin</a> <a href="https://www.facebook.com/ProgramasJuegosMax" target="_blank">facebook</a>  👨
+  
 ### My proyects
 <h1 dir="auto">
   <a><img width="300px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20161426.png?raw=true"></a>
   <a><img width="300px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162413.png?raw=true"></a>
-  <a><img width="300px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162448.png?raw=true"></a></h1>
+  <a><img width="300px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162448.png?raw=true"></a>
  <h1 dir="auto">
   <a><img width="300px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20164138.png?raw=true"></a>
   <a><img width="300px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20164055.png?raw=true"></a>
-  <a><img width="300px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20163940.png?raw=true"></a></h1>
-
+  <a><img width="300px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20163940.png?raw=true"></a>
+<h1 dir="auto">
   <a><img width="300px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-16%20094358.png?raw=true"></a>
   <a><img width="300px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-21%20173401.png?raw=true"></a>
   <a><img width="300px" src="https://github.com/nilsonmax/metin2-multilenguaje/blob/main/Captura%20de%20pantalla%202022-03-21%20175812.png?raw=true"></a>
 </h1>
-
-### Como Contactarme
-* ### <img width="18px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCH_L44q0stNB3mLOKQfO4YhtTDqFr-sn87Q&usqp=CAU" style="max-width: 100%;"> WhatsApp:<a href="https://api.whatsapp.com/send?phone=573008935212" target="_blank">+573008935212</a>
-*  También te invito a visitar todas mis redes para conocer más sobre mí, las encontrarás en mis sitios web! <a href="https://programas-juegos-max.blogspot.com" target="_blank"> blog</a> <a href="https://www.linkedin.com/in/nilson-max-benitez-marquez-b909b4230/" target="_blank">linkedin</a> <a href="https://www.facebook.com/ProgramasJuegosMax" target="_blank">facebook</a>  👨
-
-<h1 dir="auto"><a id="user-content-hi--im-martin" class="anchor" aria-hidden="true" href="https://api.whatsapp.com/send?phone=573008935212" target="_blank"><svg class="octicon octicon-link" </path></svg></a></h1>
+<h1 dir="auto"><a id="user-content-hi--im-martin" class="anchor" aria-hidden="true" href="https://api.whatsapp.com/send?phone=573008935212" target="_blank"><svg class="octicon octicon-link" </path></svg></a>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer!" style="max-width: 100%;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilsonmax&layout=compact)](https://github.com/nilsonmax/github-readme-stats)
