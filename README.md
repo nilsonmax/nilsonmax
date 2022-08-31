@@ -34,7 +34,7 @@
   <a><img width="200px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20161426.png?raw=true"></a>
   <a><img width="200px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162413.png?raw=true"></a>
   <a><img width="200px" src="https://github.com/nilsonmax/front-end-music-ecommerce-fn/blob/develop/client/images/desarrolladores/Captura%20de%20pantalla%202022-08-26%20162448.png?raw=true"></a></h1>
-<a href="https://musicommerce2022.vercel.app" target="_blank">E-commerce Musiccommerce</a><a href="https://github.com/nilsonmax/front-end-music-ecommerce-fn" target="_blank"> | Repositorio front-end</a><a href="https://github.com/Neider-Urbano/musicomerce-backend" target="_blank"> | Repositorio Back-end</a> | FullStack Developer | JavaScript | React - Redux | Express - Node - PostgreSQL - SQL |
+<a href="https://musicommerce2022.vercel.app" target="_blank">E-commerce Musiccommerce</a><a href="https://github.com/nilsonmax/front-end-music-ecommerce-fn" target="_blank"> | Repositorio front-end</a><a href="https://github.com/nilsonmax/deploy-back" target="_blank"> | Repositorio Back-end</a> | FullStack Developer | JavaScript | React - Redux | Express - Node - PostgreSQL - SQL |
  <h1 dir="auto">
   <a><img width="200px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20164138.png?raw=true"></a>
   <a><img width="200px" src="https://github.com/nilsonmax/PI-VideoGame/blob/main/PI-Videogames-main/client/src/asset/Captura%20de%20pantalla%202022-08-26%20164055.png?raw=true"></a>
